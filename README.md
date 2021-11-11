@@ -12,3 +12,4 @@ A simple appliaction that can in realtime translate the chats coming to me in my
 3. As a person having a pen friend from another country who doesn't speak your languagae, it becomes tiresome to copy and paste each others chats to translator apps for understading each other. A chat app which can in realtime translate both the chats into the language preffered by the receiver, will be helpful.
 
 
+
